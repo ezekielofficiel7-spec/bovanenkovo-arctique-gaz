@@ -5,9 +5,9 @@
 
 ![Occupation du sol 1990-2018](figures/03_occupation_sol_1990_2018.png)
 
-**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université · 2025-2026
+**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université | 2025-2026
 UE *Geointelligence Applied to Environmental Studies*, sous la direction de Sébastien Gadal
-**Travail de groupe (7 étudiants)** : A. Olivier Geoffroy, M.-A. Garchou, M. Jennani, R. Saldani, A. Arhab, A. E. Soukou, A. Bakhoum · Rapport en anglais
+**Travail de groupe (7 étudiants)** : A. Olivier Geoffroy, M.-A. Garchou, M. Jennani, R. Saldani, A. Arhab, A. E. Soukou, A. Bakhoum | Rapport en anglais
 
 ---
 
@@ -65,15 +65,13 @@ Trois scénarios sont proposés : réchauffement modéré, dégradation accélé
 
 ## Outils
 
-`SNAP` · `Google Earth Engine` · `QGIS` · `TerrSet` (ISOCLUST) · `Python` · `QuickOSM`
+`SNAP` | `Google Earth Engine` | `QGIS` | `TerrSet` (ISOCLUST) | `Python` | `QuickOSM`
 
 ## Contenu du dépôt
 
-```
-├── figures/   localisation, chaîne de traitement, séries temporelles, radar, risques
-└── rapport/   rapport complet (PDF, 40 p., anglais)
-```
+- `figures/` : localisation, chaîne de traitement, séries temporelles, radar, risques
+- `rapport/` : rapport complet (PDF, 40 p., anglais)
 
 ---
 
-**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste · [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) · [Autres projets](https://github.com/ezekielofficiel7-spec)
+**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste | [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) | [Autres projets](https://github.com/ezekielofficiel7-spec)
