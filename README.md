@@ -17,6 +17,8 @@ UE *Geointelligence Applied to Environmental Studies*, sous la direction de Séb
 
 Zone d'étude : environ 14 × 18 km autour du gisement (UTM 42N, EPSG:32642). Gisement découvert en 1972, chantier lancé en 1988, production depuis 2012.
 
+![Localisation de la zone d'étude](figures/01_localisation.png)
+
 ## Données (multicapteurs)
 
 | Capteur / produit | Résolution | Information extraite | Rôle |
@@ -52,6 +54,10 @@ Zone d'étude : environ 14 × 18 km autour du gisement (UTM 42N, EPSG:32642). Gi
 | ![](figures/04_sentinel1_detection_bati.png) | ![](figures/05_anomalie_lst.png) | ![](figures/06_exposition_infrastructures.png) |
 
 ![Production de gaz et emprise industrielle](figures/08_production_vs_emprise.png)
+
+| Évolution des indices (NDVI, NDWI, NDMI) | Zones de brunissement de la végétation (NDVI < 0,2) |
+|---|---|
+| ![](figures/09_evolution_indices.png) | ![](figures/07_zones_brunissement_ndvi.png) |
 
 ## Perspectives 2026-2050
 
